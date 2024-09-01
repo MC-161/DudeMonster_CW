@@ -16,6 +16,7 @@ Welcome to **Dude Monster**, a platformer game developed using the physics game 
 - [Controls](#controls)
 - [Features](#features)
 - [Technical Details](#technical-details)
+- [Design](#Design)
 - [Recruiter Notes](#recruiter-notes)
 - [Credits](#credits)
 
@@ -56,6 +57,10 @@ In **Dude Monster**, you control the main character through various levels, over
 - **Physics Engine**: Custom engine provided by university coursework
 - **Game Architecture**: Object-Oriented Design (OOD) principles with a modular structure
 - **Graphics**: Simple 2D sprites and tiles
+
+## Design
+![Screenshot 2024-09-01 at 14 14 50](https://github.com/user-attachments/assets/3bff1097-8683-4334-a475-1a342ed2f07c)
+
 
 ## Recruiter Notes
 
